@@ -1,4 +1,3 @@
-Hier ist der gesamte Inhalt als ein einziger, sauberer Markdown-Codeblock. Du kannst ihn direkt kopieren und in eine Datei namens `README.md` oder `GUIDE.md` einfügen.
 
 # 📘 H5P Builder: Markdown-Syntax-Handbuch
 
