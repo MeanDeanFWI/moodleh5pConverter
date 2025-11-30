@@ -1,0 +1,5 @@
+{
+  "name": "Moodle Desktop H5P Interactive Book Builder",
+  "description": "A tool to convert Markdown files into H5P Interactive Book packages automatically.",
+  "requestFramePermissions": []
+}
